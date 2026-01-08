@@ -12,3 +12,4 @@ Cara menjalankan:
 2. Untuk jadwal sholat dinamis, sesuaikan `js/scripts.js` atau integrasikan API jadwal sholat.
 
 Semoga bermanfaat.
+LIVE VIEW : https://mister-rdanm19.github.io/PUASA/
